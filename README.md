@@ -15,7 +15,7 @@ I gain a sense of accomplishment by learning new technologies and applying them 
 **Familiar with / Experienced with**:
 
 - Languages & Frameworks  
-  `C`, `Matlab`, `JavaScript`, `ASP.NET`, `Qt`
+  `C`, `Matlab`, `JavaScript`, `Qt`
 - Development & Testing Tools  
   `gtest`, `Selenium`
 - Systems & Environments  
