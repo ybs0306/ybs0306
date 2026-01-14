@@ -46,5 +46,5 @@ Feel free to reach out if you'd like to connect, collaborate, or just say hi!
 
 #### :bar_chart: GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ybs0306&show_icons=true&rank_icon=github&theme=calm_pink&include_all_commits=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybs0306&layout=compact&theme=calm_pink)
+![Stats](https://raw.githubusercontent.com/ybs0306/ybs0306/readme-bot/profile/stats.svg) 
+![Top Langs](https://raw.githubusercontent.com/ybs0306/ybs0306/readme-bot/profile/top-langs.svg)
